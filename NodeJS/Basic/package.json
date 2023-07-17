@@ -4,12 +4,16 @@
   "description": "fadhliakbar belajar backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "nyala": "nodemon index.js"
   },
   "keywords": [
     "backend",
     "dev"
   ],
   "author": "fadhli akbar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "rupiah-format": "^1.0.0"
+  }
 }
