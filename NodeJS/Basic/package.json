@@ -4,7 +4,7 @@
   "description": "fadhliakbar belajar backend",
   "main": "index.js",
   "scripts": {
-    "nyala": "nodemon index.js"
+    "nyala": "node index.js"
   },
   "keywords": [
     "backend",
