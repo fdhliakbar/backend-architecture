@@ -1,0 +1,3 @@
+# Reversed Words
+
+adalah
