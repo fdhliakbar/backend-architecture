@@ -1,5 +1,3 @@
-# Backend Architecture
+![wp10167101](https://github.com/fdhliakbar/backend-architecture/assets/104522615/3c006b8f-747d-4942-a6ca-d6b47d2e20ce)
 
-## What is the backend architecture ?
-
-Backend architecture refers to the design and structure of the server-side components of a software application. It involves organizing and coordinating various software layers, components, databases, and services to handle the logic, data storage, and communication between the application's frontend (user interface) and the underlying infrastructure.
+Roadmap Backend Developer
