@@ -6,5 +6,5 @@
 ---
 
 <div align="center">
-    <img alt="https://github.com/fdhliakbar/backend-architecture/assets/104522615/fef7dd59-d214-48f7-83bf-57eec3be0e2f" alt = "clannad banner" />
+    <img src="./clannad.gif" />
 </div>
