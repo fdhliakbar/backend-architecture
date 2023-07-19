@@ -47,6 +47,15 @@ let test2 = 1e1; // 10
 let test3 = 10e2; // 0.10
 let test4 = 92e-4; // 0.0092
 
+/*
+  The typeof operators
+  You can use the JavaScript typeof operator
+  to find the type of a JavaScript variable.
+
+*/
+typeof ""; // return string
+typeof "luffy"; // return string
+
 for (let i = 1; i <= test1; i++) {
   if (i == 100) {
     console.log("Ends to ", i);
