@@ -34,8 +34,8 @@ const numbers = [4, 7, 2, 6, 3];
 const date = new Date("2023-07-19");
 
 let number; // Now number is undefined
-number = 10; // Now number is a number
-number = "ten"; // Now number is a string value
+number = ""; // empty value
+number = null; // null value
 
 // double quote
 let islandName = '"Skyplea island" which is in one piece';
