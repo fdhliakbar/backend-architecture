@@ -30,7 +30,10 @@ while (count <= number) {
   count++;
 }
 
-for (let i = 1; i < 1e3; i++) {
+for (let i = 1; i < 100; i++) {
+  if (i == 10) {
+    continue;
+  }
   if (i == 50) {
     break;
   }
